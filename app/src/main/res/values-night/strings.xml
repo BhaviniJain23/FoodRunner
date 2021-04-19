@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_logo">app_logo</string>
+    <string name="foodrunner">FoodRunner</string>
+    <string name="name_min_3_characters">Name(Min. 3 characters)</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account?Sign up now</string>
+    <string name="register">Register</string>
+    <string name="next">Next</string>
+    <string name="enter_instruction">Enter your registered mobile number and email below:</string>
+    <string name="preferences_file_name">User Shared Preferences</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below:</string>
+    <string name="placeorder">PlaceOrder</string>
+    <string name="ordering_from">Ordering From:</string>
+    <string name="my_cart">My Cart</string>
+    <string name="no_favorites">No Favourites</string>
+    <string name="order_placed">Your order have been successfully placed!</string>
+    <string name="dummy_date">23/08/1999</string>
+    <string name="your_previous_orders_are_listed_below">Your previous orders are listed below:</string>
+    <string name="_300_person">300/person</string>
+    <string name="_4_7">4.7</string>
+    <string name="todo">TODO</string>
+</resources>
